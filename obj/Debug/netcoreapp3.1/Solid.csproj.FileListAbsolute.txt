@@ -1,0 +1,13 @@
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+D:\T-Ecosystems\Capacitación\Temarios\Desarrollador FullStack\Practicas\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
